@@ -145,7 +145,7 @@ We're diving into the world of containers with a step-by-step guide on running y
             - ASPNETCORE_ENVIRONMENT=Development
 
 
-//app.UseHttpsRedirection();
+
   # Build and Run
     - docker-compose build
     - docker-compose up
@@ -154,7 +154,7 @@ We're diving into the world of containers with a step-by-step guide on running y
 ![image](https://github.com/Netcode-Hub/DemoWebAPIWithSQLiteDbInDocker/assets/110794348/e62fb436-05af-4a52-ad09-fbfaa67e3247)
 ![image](https://github.com/Netcode-Hub/DemoWebAPIWithSQLiteDbInDocker/assets/110794348/eb2ec9a6-b2c1-496c-9825-4dd182eb8d74)
 
-Summary:
+# Summary:
 "In today's tutorial, we covered how to set up and run a .NET Web API with an SQLite database inside a Docker container. We started with a basic project, configured the SQLite connection string, and wrote our Dockerfile. Then, we used Docker Compose to bring it all together, ensuring our environment is consistent and portable. This setup is perfect for lightweight, file-based database needs, especially in microservice architectures. 💡🔧"
 
 # Here's a follow-up section to encourage engagement and support for Netcode-Hub:
