@@ -5,10 +5,9 @@
       dockerfile: Dockerfile
     image: youtubeapi
     ports:
-        - "8080:8080" # Http
+     - "8080:8080"
     volumes:
-        - ./DemoWebAPIWithSQLiteDbInDocker/YoutubeDb.db:/app/YoutubeDb.db
+      - ./DemoWebAPIWithSQLiteDbInDocker/YoutubeDb.db:/app/YoutubeDb.db
     environment:
-        - ASPNETCORE_URLS=http://+:8080;
-        - ASPNETCORE_ENVIRONMENT=Development
-    
+      - ASPNETCORE_URLS=http://+:8080;
+      - ASPNETCORE_ENVIRONMENT=Development
