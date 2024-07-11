@@ -1,4 +1,6 @@
 # 🚀 End of Hassle: Say Goodbye to Complex Setups! No More Headaches – Run .NET Web API with SQLite in Docker 🐳
+![Api   sqlite in docker](https://github.com/Netcode-Hub/DemoWebAPIWithSQLiteDbInDocker/assets/110794348/7de1aa1b-bfa6-4d34-a382-01a89a7325a9)
+
 # Introduction
 We're diving into the world of containers with a step-by-step guide on running your .NET Web API with an SQLite database connected in Docker! 🐳🔗 If you've ever wondered how to streamline your development and deployment process, this video is for you. Stick around, because by the end, you'll have your API running in a containerized environment with ease. Let's get started! 🌟
 
