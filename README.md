@@ -16,7 +16,7 @@ We're diving into the world of containers with a step-by-step guide on running y
         public int Quantity { get; set; }
     }
 
-  # Create Connectiong String
+  # Create Connection String
     "ConnectionStrings": {
     "SQLiteConnection": "Data Source=YoutubeDb.db"
   }
